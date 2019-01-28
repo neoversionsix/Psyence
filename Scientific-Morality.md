@@ -32,7 +32,7 @@ The mutability of Scientific Morality is currently made possible by having the d
 1) The existence of [consciousness](https://en.wikipedia.org/wiki/Consciousness) is undeniable.
 2) An *objective* reality exists.
 3) The existence of [Numbers](https://en.wikipedia.org/wiki/Number) is an objective reality.
-4) The Scientific Method is a method that (generally) builds increasingly accurate models of reality. It increases our knowledge of reality and awareness of the scope of reality.
+4) The Scientific Method is a method that builds increasingly accurate models of reality. It increases our knowledge of reality and awareness of the scope of reality.
 5) Moving towards the greater sustainable well-being of consciousness is desirable.
 6) '[Good](https://en.wikipedia.org/wiki/Good)' and 'bad' actions can be thought of in relation to their effects on the sustainable well-being of consciousness.
 7) What is '[good](https://en.wikipedia.org/wiki/Good)' and 'bad' or 'moral' and 'immoral' *can* be determined by the Scientific Method and reasoning.
