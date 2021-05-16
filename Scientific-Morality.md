@@ -16,7 +16,7 @@ The word '[Religion](https://en.wikipedia.org/wiki/Religion)' is used to describ
 To understand why the value of 3.0 is used, [Religion](https://en.wikipedia.org/wiki/Religion) generation 1.0 and 2.0 must be understood. The decimal point is used to emphasize the concept that there are incremental 'grey area' changes between significant version changes.
 
 ### Religion Generation 1.0
-[Religion](https://en.wikipedia.org/wiki/Religion) 1.0 can be thought of as a community holding a set of beliefs and common morals. These beliefs greatly influence their practises and can allow for a group of people to synchronise, working together to achieve common goals. It is very similar to a [culture](https://en.wikipedia.org/wiki/Culture).  In [Religion](https://en.wikipedia.org/wiki/Religion) 1.0 the spiritual beliefs and morals of the community are held only in human minds and are transferred between people by word of mouth and observation of practises. There is no book (or other data source) that is generally considered to be the source of truth for the Religion.
+[Religion](https://en.wikipedia.org/wiki/Religion) 1.0 can be thought of as a community holding a set of beliefs and common morals. The culture is disseminated by 'word of mouth. These beliefs greatly influence their practises and can allow for a group of people to synchronise, working together to achieve common goals. It is very similar to a [culture](https://en.wikipedia.org/wiki/Culture).  In [Religion](https://en.wikipedia.org/wiki/Religion) 1.0 the spiritual beliefs and morals of the community are held only in human minds and are transferred between people by word of mouth and observation of practises. There is no book (or other data source) that is generally considered to be the source of truth for the Religion.
 
 ### Religion 2.0
 [Religion](https://en.wikipedia.org/wiki/Religion) 2.0 can spread with greater efficiency and with much greater precision than 1.0. The main difference between 1.0 and 2.0 is how the data that defines the [Religion](https://en.wikipedia.org/wiki/Religion) is stored. Rather than being stored in brains, it uses a far less corruptible physical medium (i.e. a book) to hold the beliefs, stories, morals and values. The data that defines the [Religion](https://en.wikipedia.org/wiki/Religion) is stored as text. [Religion](https://en.wikipedia.org/wiki/Religion) 2.0 is defined by a single book and is immutable (can't be updated or changed).
@@ -26,7 +26,7 @@ To understand why the value of 3.0 is used, [Religion](https://en.wikipedia.org/
 
 Science is continuously revealing more of reality, and a more accurate reality as time persists. Since Scientific Morality uses the Scientific Method; mutability is a highly desirable trait. Text is (by definition) extremely limited, and hence limits how the origin of the [Religion](https://en.wikipedia.org/wiki/Religion) is stored. This limitation is undesirable.
 
-The mutability of Scientific Morality is currently made possible by having the data stored digitally, as a Git Repository. The origin of Scientific Morality is currently stored [here](https://github.com/Wason1/scientificmorality/blob/master/Scientific-Morality.md) and **anyone** can contribute to its evolution.
+The mutability of Psyence is currently made possible by having the data stored digitally, as a Git Repository and **anyone** can contribute to its evolution.
 
 # 3 Foundational Beliefs of Scientific Morality
 1) The existence of [consciousness](https://en.wikipedia.org/wiki/Consciousness) is a reality.
