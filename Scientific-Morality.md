@@ -6,7 +6,7 @@ Psyence can be considered '[Religion](https://en.wikipedia.org/wiki/Religion) ge
 
 # 2 Understanding Religion 3.0
 
-## 2.1 The Use of the Word 'Religion' to Describe Scientific Morality
+## 2.1 The Use of the Word 'Religion' to Describe Psyence
 The word '[Religion](https://en.wikipedia.org/wiki/Religion)' is used to describe Scientific Morality for the following reasons:
 1) A system of beliefs (or assumptions) are required to build the moral compass developed here. Even though these beliefs are generally considered to be obvious, they are technically beliefs.
 2) A moral compass is designed here and Religion has generally attempted to build accurate moral compasses.
@@ -37,7 +37,7 @@ The mutability of Psyence is currently made possible by having the data stored d
 6) '[Good](https://en.wikipedia.org/wiki/Good)' and '[evil](https://en.m.wikipedia.org/wiki/Evil)' actions are in relation to their effects on the well-being of consciousness. Good actions increase the well-being of consciousness and evil (bad) actions do the contrary.
 7) [Good](https://en.wikipedia.org/wiki/Good)' and [evil](https://en.m.wikipedia.org/wiki/Evil) actions *can* be determined by the Scientific Method.
 
-# Human Identity
+# 4 Human Identity
 The identity of humans can function in a hierarchy. The hierarchy that makes the most sense is as below.
 1. A component of the universe 
 2. A lifeforms
