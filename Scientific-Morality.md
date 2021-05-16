@@ -1,8 +1,8 @@
 # 1 Introduction
 
-Scientific Morality aims to increase in scope and accuracy as Science evolves to reveal how we can optimise for the sustainable well-being of consciousness. The word 'Scientific' comes from the fact that the moral compass that is developing here is built using the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method). Many of the assumptions made here are identical to the assumptions that allow traditional Science to function. 
+Psyence aims to increase in scope and accuracy as Science evolves to reveal how we can optimise for the sustainable well-being of consciousness. The moral compass that is developing here is built using the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method). Many of the assumptions made here are identical to the assumptions that allow traditional Science to function. 
 
-Scientific Morality can be considered '[Religion](https://en.wikipedia.org/wiki/Religion) generation 3.0' because it retains some desirable aspects of previous Religions (e.g. synchronising beings to function together) while adding powerful functions made possible by advancing technologies. Anyone who follows the system of beliefs here can be considered a 'Scientific Moralist'.
+Psyence can be considered '[Religion](https://en.wikipedia.org/wiki/Religion) generation 3.0' because it retains some desirable aspects of previous Religions (e.g. synchronising beings to function together) while adding powerful functions made possible by advancing technologies. Anyone who follows the system of beliefs here can be considered a 'Psientist'.
 
 # 2 Understanding Religion 3.0
 
@@ -36,3 +36,12 @@ The mutability of Psyence is currently made possible by having the data stored d
 5) Moving towards an increase in [well-being](https://en.wikipedia.org/wiki/Well-being) of consciousness is desirable.
 6) '[Good](https://en.wikipedia.org/wiki/Good)' and '[evil](https://en.m.wikipedia.org/wiki/Evil)' actions are in relation to their effects on the well-being of consciousness. Good actions increase the well-being of consciousness and evil (bad) actions do the contrary.
 7) [Good](https://en.wikipedia.org/wiki/Good)' and [evil](https://en.m.wikipedia.org/wiki/Evil) actions *can* be determined by the Scientific Method.
+
+# Human Identity
+The identity of humans can function in a hierarchy. The hierarchy that makes the most sense is as below.
+1. A component of the universe 
+2. A lifeforms
+3. An animal
+4. A human
+
+Notice that Religion and nationality are not above. These identities are considered more specific child identities. They are no higher in the hierarchy because if they were it would create a less synchronised humanity. National or Religious identity being too high in our identity hierarchy is dangerous and can be a cause for wars between people of religious/national identities. 
